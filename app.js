@@ -37,11 +37,11 @@
 
 // console.log(JSON.parse(student));
 
-document.cookie = "name = asraful ; 10000 ; path=/ ";
-document.cookie = "age = 13 ; 10000 ; path=/ ";
-document.cookie = "akill = java ; 10000 ; path=/ ";
+// document.cookie = "name = asraful ; 10000 ; path=/ ";
+// document.cookie = "age = 13 ; 10000 ; path=/ ";
+// document.cookie = "akill = java ; 10000 ; path=/ ";
 
-console.log(document.cookie);
+// console.log(document.cookie);
 
 
 
